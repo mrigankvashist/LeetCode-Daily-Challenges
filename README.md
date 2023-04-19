@@ -11,6 +11,6 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 0 | 0 | 0 |
-| Medium | 1 | 0 | 0 |
+| Medium | 1 | 1 | 0 |
 | Hard   | 0 | 0 | 0 |
 
