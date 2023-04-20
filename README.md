@@ -4,6 +4,7 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
 | April 19 | [ZigZag Binary](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | Medium | Solved |
+| April 20 | [Width Of Binary](https://leetcode.com/problems/maximum-width-of-binary-tree/) | Medium | Solved |
 
 
 
@@ -11,6 +12,6 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 0 | 0 | 0 |
-| Medium | 1 | 1 | 0 |
+| Medium | 2 | 2 | 0 |
 | Hard   | 0 | 0 | 0 |
 
