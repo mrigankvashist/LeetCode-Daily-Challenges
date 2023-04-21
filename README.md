@@ -5,7 +5,7 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 | --- | --- | --- | --- |
 | April 19 | [ZigZag Binary](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | Medium | Solved |
 | April 20 | [Width Of Binary](https://leetcode.com/problems/maximum-width-of-binary-tree/) | Medium | Solved |
-| April 21 | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/) | Medium | Solved |
+| April 21 | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/) | Hard | Solved |
 
 
 
