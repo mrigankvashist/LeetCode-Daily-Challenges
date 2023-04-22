@@ -6,6 +6,7 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 | April 19 | [ZigZag Binary](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | Medium | Solved |
 | April 20 | [Width Of Binary](https://leetcode.com/problems/maximum-width-of-binary-tree/) | Medium | Solved |
 | April 21 | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/) | Hard | Solved |
+| April 22 | [Minimum Insertion for Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Hard | Solved |
 
 
 
@@ -14,5 +15,5 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 | ---    | --- | --- | --- |
 | Easy   | 0 | 0 | 0 |
 | Medium | 2 | 2 | 0 |
-| Hard   | 1 | 1 | 0 |
+| Hard   | 2 | 2 | 0 |
 
