@@ -11,7 +11,6 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 | April 24 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | Solved |
 
 
-
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
