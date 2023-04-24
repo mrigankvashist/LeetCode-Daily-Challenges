@@ -8,13 +8,14 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 | April 21 | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/) | Hard | Solved |
 | April 22 | [Minimum Insertion for Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Hard | Solved |
 | April 23 | [Restore The Array](https://leetcode.com/problems/restore-the-array/) | Hard | Solved |
+| April 24 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | Solved |
 
 
 
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 0 | 0 | 0 |
+| Easy   | 1 | 1 | 0 |
 | Medium | 2 | 2 | 0 |
 | Hard   | 3 | 3 | 0 |
 
