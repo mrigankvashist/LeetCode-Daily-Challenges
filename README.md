@@ -10,12 +10,13 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 | April 23 | [Restore The Array](https://leetcode.com/problems/restore-the-array/) | Hard | Solved |
 | April 24 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | Solved |
 | April 25 | [Smallest Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | Medium | Solved |
+| April 26 | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy | Solved |
 
 
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 1 | 1 | 0 |
+| Easy   | 2 | 2 | 0 |
 | Medium | 3 | 3 | 0 |
 | Hard   | 3 | 3 | 0 |
 
