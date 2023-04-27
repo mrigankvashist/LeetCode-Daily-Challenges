@@ -11,12 +11,13 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 | April 24 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | Solved |
 | April 25 | [Smallest Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | Medium | Solved |
 | April 26 | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy | Solved |
+| April 27 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | Medium | Solved |
 
 
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 3 | 3 | 0 |
+| Medium | 4 | 4 | 0 |
 | Hard   | 3 | 3 | 0 |
 
