@@ -14,11 +14,12 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 | April 27 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | Medium | Solved |
 | April 28 | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | Hard | Solved |
 | April 29 | [Distance Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | Hard | Solved |
+| April 30 | [Remove Maximum Number of Edges](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard | Solved |
 
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
 | Medium | 4 | 4 | 0 |
-| Hard   | 5 | 5 | 0 |
+| Hard   | 6 | 6 | 0 |
 
