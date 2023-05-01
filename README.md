@@ -15,12 +15,15 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 | April 28 | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | Hard | Solved |
 | April 29 | [Distance Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | Hard | Solved |
 | April 30 | [Remove Maximum Number of Edges](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard | Solved |
+| May 1 | [Average Salary excluding min max](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | Easy | Solved |
+
+
 
 
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 2 | 2 | 0 |
+| Easy   | 3 | 3 | 0 |
 | Medium | 4 | 4 | 0 |
 | Hard   | 6 | 6 | 0 |
 
