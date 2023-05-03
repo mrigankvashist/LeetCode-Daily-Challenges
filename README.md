@@ -17,6 +17,7 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 | April 30 | [Remove Maximum Number of Edges](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard | Solved |
 | May 1 | [Average Salary excluding min max](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | Easy | Solved |
 | May 2 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | Easy | Solved |
+| May 3 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy | Solved |
 
 
 
@@ -24,7 +25,7 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 4 | 4 | 0 |
+| Easy   | 5 | 5 | 0 |
 | Medium | 4 | 4 | 0 |
 | Hard   | 6 | 6 | 0 |
 
