@@ -19,6 +19,7 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 | May 2 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | Easy | Solved |
 | May 3 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy | Solved |
 | May 4 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Medium | Solved |
+| May 5 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | Solved |
 
 
 
@@ -27,6 +28,6 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 5 | 5 | 0 |
+| Medium | 6 | 6 | 0 |
 | Hard   | 6 | 6 | 0 |
 
