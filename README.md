@@ -21,6 +21,7 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 | May 4 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Medium | Solved |
 | May 5 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | Solved |
 | May 6 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | Solved |
+| May 7 | [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/) | Hard | Solved |
 | May 8 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | Easy | Solved |
 
 
@@ -31,5 +32,5 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
 | Medium | 7 | 7 | 0 |
-| Hard   | 6 | 6 | 0 |
+| Hard   | 7 | 6 | 1 |
 
