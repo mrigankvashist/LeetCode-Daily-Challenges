@@ -30,7 +30,6 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 | May 13| [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | Medium | Solved |
 
 
-
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
