@@ -31,7 +31,6 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 
 
 
-
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
