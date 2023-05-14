@@ -28,6 +28,7 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 | May 11| [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | Medium | Unsolved |
 | May 12| [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | Medium | Solved |
 | May 13| [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | Medium | Solved |
+| May 14| [Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/) | Hard | Solved |
 
 
 ## Summary
@@ -35,5 +36,5 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
 | Medium | 12 | 11 | 1 |
-| Hard   | 7 | 6 | 1 |
+| Hard   | 8 | 7 | 1 |
 
