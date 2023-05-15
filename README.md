@@ -29,12 +29,13 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 | May 12| [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | Medium | Solved |
 | May 13| [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | Medium | Solved |
 | May 14| [Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/) | Hard | Solved |
+| May 15| [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list//) | Medium | Solved |
 
 
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 12 | 11 | 1 |
+| Medium | 13 | 12 | 1 |
 | Hard   | 8 | 7 | 1 |
 
