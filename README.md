@@ -31,12 +31,13 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 | May 14| [Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/) | Hard | Solved |
 | May 15| [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list//) | Medium | Solved |
 | May 16| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | Solved |
+| May 17| [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | Medium | Solved |
 
 
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 14 | 13 | 1 |
+| Medium | 15 | 14 | 1 |
 | Hard   | 8 | 7 | 1 |
 
