@@ -32,12 +32,13 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 | May 15| [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list//) | Medium | Solved |
 | May 16| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | Solved |
 | May 17| [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | Medium | Solved |
+| May 18| [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | Medium | Solved |
 
 
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 15 | 14 | 1 |
+| Medium | 16 | 15 | 1 |
 | Hard   | 8 | 7 | 1 |
 
