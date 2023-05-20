@@ -34,12 +34,13 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 | May 17| [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | Medium | Solved |
 | May 18| [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | Medium | Solved |
 | May 19| [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | Medium | Solved |
+| May 20| [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium | Unsolved |
 
 
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 17 | 16 | 1 |
+| Medium | 18 | 16 | 2 |
 | Hard   | 8 | 7 | 1 |
 
