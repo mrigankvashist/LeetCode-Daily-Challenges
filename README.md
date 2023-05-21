@@ -35,12 +35,13 @@ Hi. This repository consists of my journey of attempting to solve leetcode daily
 | May 18| [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | Medium | Solved |
 | May 19| [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | Medium | Solved |
 | May 20| [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium | Unsolved |
+| May 21| [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | Medium | Solved |
 
 
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 18 | 16 | 2 |
+| Medium | 19 | 17 | 2 |
 | Hard   | 8 | 7 | 1 |
 
